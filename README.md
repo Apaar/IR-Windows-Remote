@@ -10,3 +10,5 @@ Scan_Read.h - contains the class which deals with creation of a virtual sSerial 
 Datahandle.h - recieved data is converted in to action using the INPUT class built into windows.h
 
 Remote.cpp - puts both the header files and their functionalities together
+
+This code was written more than a year ago and thus the code is poorly documented and has some other isses(repeated segments that could have been omitted) but it works well :)
